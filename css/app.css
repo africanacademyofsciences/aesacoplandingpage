@@ -1,0 +1,93 @@
+body {
+    font-size: 18px;
+
+}
+
+.header-container-wrapper{
+    width: 100%;
+    position: relative;
+}
+
+.header-container-wrapper > .container-fluid{
+    padding-right: 0;
+    padding-left: 0;
+}
+.header-container, .body-container, .footer-container {
+    overflow: visible;
+}
+
+.site-header {
+
+    z-index: 10;
+    position: relative;
+
+}
+
+.site-header > div {
+
+    background-color: white;
+    width: 100%;
+    padding: 0 1.38889em !important;
+
+}
+
+.site-header > div .span3 {
+
+    padding: 1.38889em 0 !important;
+
+}
+
+
+.site-header > div h1.logo {
+
+    width: 296px;
+    height: 38px;
+
+}
+.site-header > div h1.logo {
+
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: contain !important;
+    background-image: url("//img.jillkonrath.com/hs-fs/hub/110248/file-2264453017-svg/assets/images/jill-konrath-brand.svg?t=1498432510582");
+
+}
+h1 {
+
+    font-weight: 300;
+    font-size: 2.88889em;
+    line-height: 1;
+    color: #454748;
+    margin-bottom: .5em;
+    margin-top: .5em;
+
+}
+
+.site-header > div .main-nav ul > li {
+
+    display: inline-block;
+    position: relative;
+    height: 9rem;
+    line-height: 9rem;
+    margin: 0;
+
+}
+
+.site-header > div .main-nav ul {
+
+    text-align: right;
+    list-style-type: none;
+
+}
+ul {
+
+    list-style-type: square;
+
+}
+ul, ol {
+
+    font-size: 1em;
+    line-height: 1.4;
+
+}
