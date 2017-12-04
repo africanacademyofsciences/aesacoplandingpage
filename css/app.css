@@ -829,18 +829,7 @@ a.video-link {
 .resources-section .sales-resources nav ul li a:hover {
     text-decoration: none;
     background-color: rgba(255, 255, 255, 0.17); }
-.resources-section .sales-resources nav ul li.blog a:before {
-    background-image: url(//img.jillkonrath.com/hs-fs/hub/110248/file-2267186277-svg/assets/images/icon-blog.svg?t=1498432510582); }
-.resources-section .sales-resources nav ul li.ebooks a:before {
-    background-image: url(//img.jillkonrath.com/hs-fs/hub/110248/file-2266628839-svg/assets/images/icon-ebooks.svg?t=1498432510582); }
-.resources-section .sales-resources nav ul li.worksheets a:before {
-    background-image: url(//img.jillkonrath.com/hs-fs/hub/110248/file-2267166512-svg/assets/images/icon-worksheets.svg?t=1498432510582); }
-.resources-section .sales-resources nav ul li.videos a:before {
-    background-image: url(//img.jillkonrath.com/hs-fs/hub/110248/file-2267155862-svg/assets/images/icon-videos.svg?t=1498432510582); }
-.resources-section .sales-resources nav ul li.audio a:before {
-    background-image: url(//img.jillkonrath.com/hs-fs/hub/110248/file-2266202990-svg/assets/images/icon-audio.svg?t=1498432510582); }
-.resources-section .sales-resources nav ul li.webinars a:before {
-    background-image: url(//img.jillkonrath.com/hs-fs/hub/110248/file-2266197890-svg/assets/images/icon-webinars.svg?t=1498432510582); }
+
 
 .resources-section section.resource-list {
     background: #f0f2f3;
@@ -905,18 +894,6 @@ a.video-link {
     text-decoration: none; }
 .resources-section section.resource-list ul li a:hover:before {
     opacity: 1; }
-.resources-section section.resource-list.Blog ul li a:before {
-    background-image: url(//img.jillkonrath.com/hs-fs/hub/110248/file-2262882493-svg/assets/images/icon-blog-d.svg?v=3&t=1498432510582); }
-.resources-section section.resource-list.Ebooks ul li a:before {
-    background-image: url(//img.jillkonrath.com/hs-fs/hub/110248/file-2266863439-svg/assets/images/icon-ebooks-d.svg?v=3&t=1498432510582); }
-.resources-section section.resource-list.Worksheets ul li a:before {
-    background-image: url(//img.jillkonrath.com/hs-fs/hub/110248/file-2262872978-svg/assets/images/icon-worksheets-d.svg?v=3&t=1498432510582); }
-.resources-section section.resource-list.Videos ul li a:before {
-    background-image: url(//img.jillkonrath.com/hs-fs/hub/110248/file-2266570890-svg/assets/images/icon-videos-d.svg?t=1498432510582); }
-.resources-section section.resource-list.Audio ul li a:before {
-    background-image: url(//img.jillkonrath.com/hs-fs/hub/110248/file-2266565595-svg/assets/images/icon-audio-d.svg?t=1498432510582); }
-.resources-section section.resource-list.Webinars ul li a:before {
-    background-image: url(//img.jillkonrath.com/hs-fs/hub/110248/file-2266590705-svg/assets/images/icon-webinars-d.svg?t=1498432510582); }
 
 a.learn-more, a.read-more {
     font-size: 0.77778em;
